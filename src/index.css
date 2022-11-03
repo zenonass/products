@@ -11,3 +11,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#nav-headline {
+  text-align: center;
+}
+
+#nav-links {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  display: inline-block;
+  font-family: "Open Sans", Arial;
+  font-size: 15px;
+  color: #FFF;
+  text-align: center;
+  background: #f05a22;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 12px;
+  text-decoration:none;
+}
+
+.product-form{
+  text-align: center;
+}
+
+.submitButton {
+  width: 80px;
+  background: #ffb637;
+}
+
+.products {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.product-details {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+}
+
+li.menu-item {
+  margin:0 0 10px 0;
+  font-size: 15px;
+  background-color: #ffb637;
+  text-align: center;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 12px;
+  width: 170px;
+}
+
+.link {
+  text-decoration:none;
+  border-radius: 6px;
+}

@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Kelnes",
+      "price": "10",
+      "description": "some description about product",
+      "id": 1
+    },
+    {
+      "name": "Megztinis",
+      "price": "10",
+      "description": "some description about product",
+      "id": 2
+    },
+    {
+      "description": "test",
+      "name": "test",
+      "price": "test",
+      "id": 3
+    }
+  ]
+}
