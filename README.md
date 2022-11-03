@@ -10,7 +10,7 @@ npm start
 **Endpoints used:**  
 GET all products "/"  
 GET single product "/products/{id}"  
-POST create new product "/create"  
+POST new product "/create"  
 
 
 **Main page:**
